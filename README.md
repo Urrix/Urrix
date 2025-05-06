@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 Ahora Trabajo en varios proyectos de Freelancer:<br>App nativas con react native y sobre todo con js y ts<br>Sali de la Universidad Autónoma de Ags de Ingeniería en Sistemas Computacionales.<br>Me dedico sobre todo a desarrollo de software pero también soy DevOps
 
@@ -15,4 +19,8 @@ Ahora Trabajo en varios proyectos de Freelancer:<br>App nativas con react native
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Urrix&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<img src="https://raw.githubusercontent.com/Urrix/Urrix/output/snake.svg" alt="Snake animation" />
+
+###
