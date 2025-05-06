@@ -15,12 +15,6 @@ Ahora Trabajo en varios proyectos de Freelancer:<br>App nativas con react native
 ![](https://github-readme-stats.vercel.app/api?username=Urrix&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Urrix&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Urrix&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
-
-<img src="https://raw.githubusercontent.com/Urrix/Urrix/output/snake.svg" alt="Snake animation" />
-
-###
